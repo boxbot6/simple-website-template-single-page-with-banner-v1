@@ -1,12 +1,12 @@
 # A simple HTML website template for hosting on GitHub and elsewhere:
 
-![Simple website template in the style of a folder](images/simple-website-template-single-page-with-banner-v1.0-sample.png)
+![Simple website template in the style of a folder](images/simple-website-template-single-page-with-banner-v1-sample.png)
 
 ---
 
 ## Click on the link below to open and try out the template.
 
-* [Click this link to view the website being created from this repository and hosted on github-pages.](https://boxbot6.github.io/simple-website-template-single-page-with-banner-v1.0/)
+* [Click this link to view the website being created from this repository and hosted on github-pages.](https://boxbot6.github.io/simple-website-template-single-page-with-banner-v1/)
 
 <br>
 
@@ -49,4 +49,4 @@ After creating your own website using this template and github-pages you can rep
 
 <br>
 
-* [Click this link to view the website being created from this repository and hosted on github-pages.](https://boxbot6.github.io/simple-website-template-single-page-with-banner-v1.0/)
+* [Click this link to view the website being created from this repository and hosted on github-pages.](https://boxbot6.github.io/simple-website-template-single-page-with-banner-v1/)
