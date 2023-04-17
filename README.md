@@ -6,7 +6,7 @@
 
 ## Click on the link below to open and try out the template.
 
-* [Click this link to view the website being created from this repository and hosted on github-pages.](https://boxbot6.github.io/simple-website-template-single-page-with-banner-v1.0/)
+* [Click this link to view the website being created from this repository and hosted on github-pages.](https://boxbot6.github.io/simple-website-template-single-page-with-banner-v1/)
 
 <br>
 
@@ -49,4 +49,4 @@ After creating your own website using this template and github-pages you can rep
 
 <br>
 
-* [Click this link to view the website being created from this repository and hosted on github-pages.](https://boxbot6.github.io/simple-website-template-single-page-with-banner-v1.0/)
+* [Click this link to view the website being created from this repository and hosted on github-pages.](https://boxbot6.github.io/simple-website-template-single-page-with-banner-v1/)
