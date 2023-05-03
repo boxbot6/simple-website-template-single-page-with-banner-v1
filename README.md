@@ -1,4 +1,4 @@
-# A simple HTML website template for hosting on GitHub and elsewhere:
+# A simple free HTML website template for hosting on GitHub and elsewhere:
 
 ![Simple website template in the style of a folder](images/simple-website-template-single-page-with-banner-v1-sample.png)
 
